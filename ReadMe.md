@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Kuzama<br>A passionate frontend developer from Biringan
+Hi 👋, I'm Kuzama<br>A passionate Fullstack developer from Biringan
 
 
 # 💻 Tech Stack:
