@@ -9,7 +9,5 @@ Hi 👋, I'm Kuzama<br>A passionate Fullstack developer from Biringan
 ![](https://nirzak-streak-stats.vercel.app/?user=kuzamma&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kuzamma&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kuzamma&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
